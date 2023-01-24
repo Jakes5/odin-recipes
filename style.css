@@ -1,0 +1,20 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box-sizing: border-box;
+    text-align: center;
+    text-decoration: none;
+}
+
+h1{
+    background-color: #FFC300;
+    color: #900C3F;
+}
+
+.menu-item{
+    height: 1.5rem;
+    background-color: #FFEC8D;
+}
+
+a{
+    color: #B74F3D;
+}
